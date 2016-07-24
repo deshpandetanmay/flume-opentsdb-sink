@@ -38,5 +38,6 @@ flume1.channels.opentsdb-channel-1.capacity = 10000
 
 To execute the Flume Agent, use follwing command
 
-``` bin/flume-ng agent -n flume1 -c /usr/hdp/current/flume-server/conf -f /root/flume/opentsdb.conf -Dflume.root.logger=INFO,console
+``` 
+bin/flume-ng agent -n flume1 -c /usr/hdp/current/flume-server/conf -f /root/flume/opentsdb.conf -Dflume.root.logger=INFO,console
 ```
