@@ -1,4 +1,4 @@
-# flink-opentsdb-sink
+# Flume Kafka to Open TSDB
 
 --------------------------------------------------------------------
 To use this sink, download the repo and build code using follwing commmand
