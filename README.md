@@ -3,7 +3,9 @@
 --------------------------------------------------------------------
 To use this sink, download the repo and build code using follwing commmand
 
-```mvn clean install``
+```
+mvn clean install
+```
 
 Copy generated JAR and place it in FLUME_HOME/bin
 
