@@ -1,5 +1,5 @@
 # Flume Kafka to Open TSDB
-
+This sink reads data from Kafka topic and writes to OpenTSDB
 --------------------------------------------------------------------
 To use this sink, download the repo and build code using follwing commmand
 
