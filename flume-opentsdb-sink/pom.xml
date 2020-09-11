@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<flume.version>1.5.2</flume.version>
-		<http.client.version>4.2.3</http.client.version>
+		<http.client.version>4.3.6</http.client.version>
 	</properties>
 	<build>
 		<plugins>
